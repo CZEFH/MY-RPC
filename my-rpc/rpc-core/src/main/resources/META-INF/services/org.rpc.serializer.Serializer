@@ -1,0 +1,4 @@
+org.rpc.serializer.JdkSerializer
+org.rpc.serializer.HessianSerializer
+org.rpc.serializer.JsonSerializer
+org.rpc.serializer.KryoSerializer
